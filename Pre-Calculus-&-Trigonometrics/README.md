@@ -1,12 +1,8 @@
- ### Chapters
+ ## Chapters
  - [x] [Chapters1-7](Chapters1-7)
  - [x] [Chapters8-14](Chapters8-14)
  
- ### [Calculus Useful Math Concepts](Calculus_Useful_Math_Concepts)
- 
- ---
- 
- ### Other Content
+## Other Content
  
 - [Algebra Essential Formulas](Algebra_Essential_Formulas.pdf)
 - [Algebra Formulas](Algebra_Formulas.pdf)
@@ -16,3 +12,4 @@
 - [Trigonometry](Trigonometry.pdf)
 - [Trigonometry Formula Sheet](TrigonometryFormulaSheet.pdf)
  
+ ### [Calculus Useful Math Concepts](Calculus_Useful_Math_Concepts)
