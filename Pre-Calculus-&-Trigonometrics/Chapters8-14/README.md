@@ -1,3 +1,5 @@
+[← Back](../)
+
 - Section 8.1 [The Inverse Sine, Cosine, and Tangent Functions](8_1.pdf)
 - Section 8.2 [The Inverse Trigonometric Functions(Continued)](8_1.pdf)
 - Section 8.3 [Trigonometric Equations](8_1.pdf)
