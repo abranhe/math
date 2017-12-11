@@ -4,6 +4,8 @@
  
  ### [Calculus Useful Math Concepts](Calculus_Useful_Math_Concepts)
  
+ ---
+ 
  ### Other Content
  
 - [Algebra Essential Formulas](Algebra_Essential_Formulas.pdf)
