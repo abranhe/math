@@ -1,4 +1,4 @@
-[Back](../)
+[← Back](../)
 
 - [TRIGONOMETRY REVIEW](App_A_TRIGONOMETRY_REVIEW.pdf)
 - [FUNCTIONS](App_B_FUNCTIONS.pdf)
