@@ -1,4 +1,4 @@
-[![CA @19cah](https://img.shields.io/badge/Author-Carlos%20Abraham%20@19cah-brightgreen.svg)](https://github.com/19cah)
+![Image](https://git.io/19cah-bandge)
 
 
 # Math Classes
