@@ -4,4 +4,4 @@
 # Math Classes
 
 - [Pre Calculus & Trigonometrics](Pre-Calculus-&-Trigonometrics)
-- [Discrete Math](discrete math)
+- [Discrete Math](discrete-math)
