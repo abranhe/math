@@ -4,3 +4,4 @@
 
 - [Pre Calculus & Trigonometrics](Pre-Calculus-&-Trigonometrics)
 - [Discrete Math](discrete-math)
+- [Calculus 1](calculus-1)
